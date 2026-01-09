@@ -12,24 +12,20 @@
 
 ## 项目展示
 
-<div align="center">
-
 ### 首页
-<img src="./public/screenshots/Home.png" width="800" alt="首页">
+![首页](./screenshots/Home.png)
 
 ### 商品列表
-<img src="./public/screenshots/goods-list.png" width="800" alt="商品列表">
+![商品列表](./screenshots/goods-list.png)
 
 ### 商品详情
-<img src="./public/screenshots/goods-detail.png" width="800" alt="商品详情">
+![商品详情](./screenshots/goods-detail.png)
 
 ### 购物车
-<img src="./public/screenshots/cart.png" width="800" alt="购物车">
+![购物车](./screenshots/cart.png)
 
 ### 订单详情
-<img src="./public/screenshots/order-detail.png" width="800" alt="订单详情">
-
-</div>
+![订单详情](./screenshots/order-detail.png)
 
 ---
 
